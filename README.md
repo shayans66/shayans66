@@ -1,7 +1,7 @@
 ### Hey there! 👋
 ![Shayan Sarnevesht's github stats](https://github-readme-stats.vercel.app/api?username=shayans66&show_icons=true&theme=radical&count_private=true)
 
-I'm Shayan Sarnevesht, a self-taught full-stack developer from Silicon Valley!
+[comment]: I'm Shayan Sarnevesht, a self-taught full-stack developer from Silicon Valley!
 
 
 
