@@ -12,8 +12,8 @@
 -->
 
 ## Contact Info
-- 📫 Email: [@shayansarn@ucla.edu](mailto:shayansarn@ucla.edu)
+- 📫 Email: 
 
-- 💼 LinkedIn: [@sarn](https://www.linkedin.com/in/sarn/)
+- 💼 LinkedIn: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayans66&layout=compact&theme=radical)
